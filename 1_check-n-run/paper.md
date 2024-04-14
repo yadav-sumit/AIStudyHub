@@ -3,7 +3,7 @@
 
 [OFFICIAL PAPER](https://arxiv.org/pdf/2010.08679v2.pdf)
 
-**Tags**: - Distributed Learning, Checkpoint, Embedding, Microsoft
+**Tags**: - Distributed Learning, Checkpoint, Embedding, Facebook
 
 **Highlights & Notes**
 

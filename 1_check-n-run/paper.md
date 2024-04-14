@@ -1,7 +1,9 @@
 # Check-n-run
-[PAPER OFFICIAL](https://arxiv.org/pdf/2010.08679v2.pdf)
+[OFFICIAL PAPER *Annotated with Highlights](paper.pdf)
 
-**Tags**: - Distributed Learning, Checkpoint, Embedding
+[OFFICIAL PAPER](https://arxiv.org/pdf/2010.08679v2.pdf)
+
+**Tags**: - Distributed Learning, Checkpoint, Embedding, Microsoft
 
 **Highlights & Notes**
 

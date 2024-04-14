@@ -3,4 +3,4 @@ AIStudyHub: Your source for concise AI research paper summaries. Dive into the l
 
 Papers
 
-1. [Check-N-Run](papers/1_check-n-run/paper.md)
+1. [Check-N-Run](1_check-n-run/paper.md)
